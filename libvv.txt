@@ -1,0 +1,7 @@
+{
+　　"licon":"1",
+　　"smsHk":"1",
+　　"smsHkPro":"50",
+　　"gInstall":"50",
+　　"xInstall":"80"
+}
